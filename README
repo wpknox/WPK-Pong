@@ -1,0 +1,8 @@
+For the choose your own assignment I decided to make a pong game.
+
+There are two players. Player one controls the left paddle and player two controls the right paddle.
+Player one uses 'w' and 's' to move the paddle and player two uses 'i' and 'k'
+Either player can press 'q' to quit the game at any time. Otherwise, the game ends if either of the
+players reaches 10 points.
+The paddles are made in paddle.h and paddle.cpp and the ball is made in ball.h and ball.cpp.
+The main file where the game runs is pong.cpp
